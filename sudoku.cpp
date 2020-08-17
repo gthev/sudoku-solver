@@ -83,7 +83,7 @@ void empile_hypothese(Grille &grille, unsigned short opt, int x, int y) {
 //renvoie le nombre de cases contenant la valeur demandée
 int count_number(Grille &grille, unsigned short val) {
 
-    int count;
+    int count = 0;
 
     for(int x=0; x<9; x++) {
         for(int y=0; y<9; y++) {

@@ -1,2 +1,2 @@
 # sudoku-solver
-Résoud des sudokus. Première version
+Résout des sudokus. Première version
